@@ -1,6 +1,6 @@
 {
   "name": "micr-scanner",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "OCR for MICR font",
   "main": "MICRScanner.js",
   "scripts": {
