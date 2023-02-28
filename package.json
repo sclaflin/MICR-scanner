@@ -2,7 +2,7 @@
   "name": "micr-scanner",
   "version": "0.0.0",
   "description": "OCR for MICR font",
-  "main": "MICR.js",
+  "main": "MICRScanner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
