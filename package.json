@@ -1,5 +1,5 @@
 {
-  "name": "micr-scanner",
+  "name": "@sclaflin/micr-scanner",
   "version": "0.0.1",
   "description": "OCR for MICR font",
   "main": "MICRScanner.js",
